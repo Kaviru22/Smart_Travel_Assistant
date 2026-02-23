@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IntelliJ
+.idea/
+
+# Mac
+.DS_Store
