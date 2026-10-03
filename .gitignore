@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 node_modules
+=======
+# Node
+node_modules/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IntelliJ
+.idea/
+
+# Mac
+.DS_Store
+>>>>>>> 1dd841b1f7f2013bcc8729829bd47a8799106f8d
